@@ -1,4 +1,5 @@
 # Default ignored files
+/.github
 /shelf/
 /.idea/workspace.xml
 Thumbs.db*
